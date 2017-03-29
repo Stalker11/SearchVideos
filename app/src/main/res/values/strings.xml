@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchVideos</string>
+    <string name="exit_dialog">Do you really want to exit?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="open_drawer">Drawer open</string>
+    <string name="close_drawer">Drawer_close</string>
+    <string name="save_toolbar">Save</string>
+    <string name="saved_movies">Saved movies</string>
+    <string name="search_with_title">Search with title</string>
+    <string name="search_with_director">Search with director</string>
+    <string name="search_button_name">Search movies</string>
+    <string name="nothing_saved_films">You do not have saved films</string>
+   </resources>
